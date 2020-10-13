@@ -1,4 +1,5 @@
 function formatBytes(megaBytes) {
+
     let result = megaBytes / 1000;
     if (result < 1) {
         return `${megaBytes}MB`
@@ -19,3 +20,4 @@ function formatBytes(megaBytes) {
 
 }
 module.exports = formatBytes;
+
