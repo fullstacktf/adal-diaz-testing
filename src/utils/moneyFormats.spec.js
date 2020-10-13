@@ -11,9 +11,11 @@ function assertEquals(result, expectedResult) {
         throw new Error(
             `This test is failing: Expected "${expectedResult}", got "${result}"`,
         );
+    } else {
+        console.log("All OK");
     }
 }
-console.log("All OK");
+
 
 /*
 const value1 = moneyFormat(19.99)
