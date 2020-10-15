@@ -1,0 +1,2 @@
+bread, 1, 2
+tomate, 4, 2

@@ -1,0 +1,2 @@
+cervezaDoradaBotella, 3, 2
+cervezaHacendadoLata, 22, 1
